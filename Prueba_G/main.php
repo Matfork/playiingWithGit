@@ -3,9 +3,6 @@
  
  echo "hola 3";
  
- echo "aaa";
- 
-
- echo "aaa";
+ECHO "DESDE EL SEGUNDO WORKSPACE";
  
  ?>
