@@ -3,6 +3,5 @@
  
  echo "hola 3";
  
-ECHO "DESDE EL SEGUNDO WORKSPAC E";
- 
+	$var1 = 5; 
  ?>
