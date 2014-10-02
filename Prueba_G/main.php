@@ -3,7 +3,12 @@
  
  echo "hola 3";
  
-	$var1 = 5; 
+ECHO "DESDE EL asdasdsadsa WORKSPAC E";
+ 
+$var1 = 5;
+
+ECHO "DESDE EL SEGUNDO WORKSPAC E";
+
 	
 	$var2 = 5;
  ?>
