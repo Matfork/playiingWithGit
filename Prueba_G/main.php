@@ -5,4 +5,8 @@
  
 ECHO "DESDE EL asdasdsadsa WORKSPAC E";
  
+$var1 = 5;
+
+ECHO "DESDE EL SEGUNDO WORKSPAC E";
+
  ?>
