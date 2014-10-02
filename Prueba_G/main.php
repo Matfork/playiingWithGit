@@ -4,4 +4,6 @@
  echo "hola 3";
  
 	$var1 = 5; 
+	
+	$var2 = 5;
  ?>
